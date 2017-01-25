@@ -1,1 +1,2 @@
 实现git自动更新到packagist
+token 更新
